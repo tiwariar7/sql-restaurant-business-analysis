@@ -1,6 +1,6 @@
 # sql-restaurant-business-analysis
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue) 
-![GitHub](https://img.shields.io/github/repo-size/yourusername/restaurant-data-analysis-sql)  
+![GitHub](https://img.shields.io/github/repo-size/tiwariar7/sql-restaurant-business-analysis/edit/main/README.md)  
 
 A project analyzing restaurant data from Swiggy (hypothetical dataset) to derive business insights using SQL.  
 ## 📌 **Project Overview**  
