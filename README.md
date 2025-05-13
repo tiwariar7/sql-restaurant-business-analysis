@@ -3,18 +3,18 @@
 ![GitHub](https://img.shields.io/github/repo-size/tiwariar7/sql-restaurant-business-analysis/edit/main/README.md)  
 
 A project analyzing restaurant data from Swiggy (hypothetical dataset) to derive business insights using SQL.  
-## 📌 **Project Overview**  
+## **Project Overview**  
 This repository contains SQL queries to analyze restaurant performance metrics such as:  
 - Highest revenue-generating restaurants & cities  
 - Popular cuisines by pricing and demand  
 - Restaurant chain performance  
 - City-wise dining trends  
 
-## 🛠️ **Technologies Used**  
+## **Technologies Used**  
 - **SQL** (MySQL)  
 - **Dataset**: Hypothetical `restaurants` table (Swiggy-like data)  
 
-## 📂 **Dataset Structure**  
+## **Dataset Structure**  
 The `restaurants` table includes columns like:  
 - `id`, `name`, `city`, `cuisine`, `rating`, `rating_count`, `cost`  
 
